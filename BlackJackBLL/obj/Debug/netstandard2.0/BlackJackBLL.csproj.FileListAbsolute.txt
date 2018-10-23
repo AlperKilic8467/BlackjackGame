@@ -1,0 +1,9 @@
+C:\Users\Alper\Desktop\c#\BlackJackUI\BlackJackBLL\bin\Debug\netstandard2.0\BlackJackBLL.deps.json
+C:\Users\Alper\Desktop\c#\BlackJackUI\BlackJackBLL\bin\Debug\netstandard2.0\BlackJackBLL.dll
+C:\Users\Alper\Desktop\c#\BlackJackUI\BlackJackBLL\bin\Debug\netstandard2.0\BlackJackBLL.pdb
+C:\Users\Alper\Desktop\c#\BlackJackUI\BlackJackBLL\obj\Debug\netstandard2.0\BlackJackBLL.csprojAssemblyReference.cache
+C:\Users\Alper\Desktop\c#\BlackJackUI\BlackJackBLL\obj\Debug\netstandard2.0\BlackJackBLL.csproj.CoreCompileInputs.cache
+C:\Users\Alper\Desktop\c#\BlackJackUI\BlackJackBLL\obj\Debug\netstandard2.0\BlackJackBLL.AssemblyInfoInputs.cache
+C:\Users\Alper\Desktop\c#\BlackJackUI\BlackJackBLL\obj\Debug\netstandard2.0\BlackJackBLL.AssemblyInfo.cs
+C:\Users\Alper\Desktop\c#\BlackJackUI\BlackJackBLL\obj\Debug\netstandard2.0\BlackJackBLL.dll
+C:\Users\Alper\Desktop\c#\BlackJackUI\BlackJackBLL\obj\Debug\netstandard2.0\BlackJackBLL.pdb
